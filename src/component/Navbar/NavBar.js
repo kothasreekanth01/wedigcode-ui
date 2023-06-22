@@ -45,7 +45,7 @@ class NavbarPage extends Component {
           <Container>
             {/* LOGO */}
             <NavbarBrand className="logo" href="/">
-              <span style={{color:"#fff",font:"bolder"}}>&#10100;WDG&#10101;</span>
+              <span style={{color:"#fff",font:"bolder"}}>&#10100;WDGT&#10101;</span>
             </NavbarBrand>
             <NavbarToggler onClick={this.toggle}>
               <i>
