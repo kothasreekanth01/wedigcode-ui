@@ -10,7 +10,7 @@ export default class FooterLink extends Component {
                         <Row>
                             <Col lg={12} className="text-center">
                                 <p className="copyright text-white f-14 fw-light mb-0">
-                                {(new Date().getFullYear())}{" "} © Zooki. Develop By Themesbrand
+                                {(new Date().getFullYear())}{" "} © WDG. Develop By WDG IT Solutions.
                                 </p>
                             </Col>
                         </Row>
