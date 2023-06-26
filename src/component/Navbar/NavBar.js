@@ -12,6 +12,7 @@ import {
 import logodark from "../../assets/images/zooki.png";
 import logolight from "../../assets/images/zooki.png";
 
+
 //import icon
 import FeatherIcon from "feather-icons-react";
 
@@ -21,18 +22,20 @@ class NavbarPage extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      isOpenMenu: false,
+      isOpenMenu: false,      
     };
   }
+
+  
 
   toggle = () => {
     this.setState({ isOpenMenu: !this.state.isOpenMenu });
   };
 
-  render() {
+  render() {    
     var targetId = this.props.navItems.map((item) => {
       return item.idnm;
-    });
+    });    
     return (
       <React.Fragment>
         {/* Navbar Start */}
@@ -42,11 +45,7 @@ class NavbarPage extends Component {
           <Container>
             {/* LOGO */}
             <NavbarBrand className="logo" href="/">
-              {this.props.imglight === true ? (
-                <img src={logolight} alt="" height="20" />
-              ) : (
-                <img src={logodark} alt="" height="20" />
-              )}
+              <span style={{color:"#fff",font:"bolder"}}>&#10100;WDG&#10101;</span>
             </NavbarBrand>
             <NavbarToggler onClick={this.toggle}>
               <i>
