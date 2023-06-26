@@ -18,11 +18,9 @@ export default class Section extends Component {
                 <Row className="align-items-center">
                   <Col lg={5}>
                     <div className="mt-40 home-2-content">
-                      <h1 className="text-white fw-normal home-2-title display-4 mb-0">Make Your Marketing Real.
+                      <h1 className="text-white fw-normal home-2-title display-4 mb-0">We Hire, Train and Outsource
                       </h1>
-                      <p className="text-white-70 mt-4 f-15 mb-0">Ut enim ad minima veniam quis nostrum
-                        exercitationem ullam corporis at suscipit laboriosam nisi ut aliquid a commodi
-                        consequatur Quis autem.</p>
+                      <p className="text-white-70 mt-4 f-15 mb-0">Our key components of strategy are visioning, objective setting, resource allocation, and prioritization.</p>
                       <div className="mt-5">
                         <Link to="#" className="btn btn-custom me-4">Learn More</Link>
                       </div>
