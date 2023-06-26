@@ -71,7 +71,7 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Call :</p>
-                                                        <p className="mb-0 f-13">012-345-6789</p>
+                                                        <p className="mb-0 f-13">+91-6304353162</p>
                                                     </div>
                                                 </div>
 
@@ -81,7 +81,7 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Email :</p>
-                                                        <p className="mb-0 f-13"><Link to="" className="text-muted">youremailid@gmail.com</Link>
+                                                        <p className="mb-0 f-13"><Link to="" className="text-muted">Sreekanthreddy.kotha@wedigcode.com</Link>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -92,8 +92,7 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Location :</p>
-                                                        <p className="mb-0 f-13"><Link to="" className="text-muted">3179 Raccoon Run Seattle,
-                                                    WA 98109</Link></p>
+                                                        <p className="mb-0 f-13"><strong><br></br>We Dig Code IT Solutions.<Link to="" className="text-muted">We work Building, Embassy Tech Village,Kadubisanahalli,560103</Link></strong></p>
                                                     </div>
                                                 </div>
 

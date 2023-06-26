@@ -10,39 +10,28 @@ export default class Services extends Component {
                 {
                     id: 1,
                     icon: 'mdi-database',
-                    title: 'Awesome Support',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
+                    title: 'Human Resource Outsourcing',
+                    description: 'We hire human resources, train them with experts, and place them in top companies, Which helps companies save time and money.'
                 },
                 {
                     id: 2,
                     icon: 'mdi-palette',
-                    title: 'Unlimited Colors',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
+                    title: 'Corporate Training',
+                    description: 'We give corporate training to people in the USA, UK, and Canada from India on major IT technologies and also help them update their skills based on the current market.'
                 },
                 {
                     id: 3,
                     icon: 'mdi-finance',
-                    title: 'Strategy Solutions',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
+                    title: 'Job Support',
+                    description: 'We give Job Support to people in the USA, UK, and Canada from India on major IT technologies and also help them update their skills based on the current market.'
                 },
                 {
                     id: 4,
                     icon: 'mdi-yin-yang',
-                    title: 'Digital Design',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
+                    title: 'Job Guarantee Programme',
+                    description: 'We hire students, provide training, and place them in top companies. Under this programme, we guarantee jobs..'
                 },
-                {
-                    id: 5,
-                    icon: 'mdi-apple-keyboard-command',
-                    title: 'Easy to customize',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
-                },
-                {
-                    id: 6,
-                    icon: 'mdi-hexagon-multiple',
-                    title: 'Truly Multipurpose',
-                    description: 'Sed ut perspiciatis unde sit omnise iste natus voluptatem site accusantium doloremque laudantium combined with a handful totam.'
-                }
+                
             ]
         }
     }
